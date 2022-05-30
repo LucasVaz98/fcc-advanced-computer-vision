@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=01sAkU_NvOY
+
+
+
+Framework Mediapipe -> Developd by Google
+	Face/Objetc Detection
+	Face Landmarks
+	Hand Tracking
+
+
+Hand Tracking:
+	* Palm Detection
+		Complete Images
+
+	* Hand Detenction
+		Find 21 different hand marks, more work, but works better
+		We use this method
+
+install opencv and mediapipe
+	opencv https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html
+	mediapipe https://google.github.io/mediapipe/getting_started/install.html#installing-on-debian-and-ubuntu
+	Viwed on 30/05/2022
+
+
+
